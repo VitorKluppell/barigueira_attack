@@ -59,7 +59,3 @@ Prepare-se para testar seus reflexos enquanto tenta acertar o maior número poss
 - Ana Waltrick  
 - Ângelo Miranda  
 - Vitor Kluppell  
-
-📍 *Centro Universitário Autônomo do Brasil – UniBrasil*  
-📘 *Disciplina: Programação Avançada*  
-👨‍🏫 *Professor: Fábio Bettio*
