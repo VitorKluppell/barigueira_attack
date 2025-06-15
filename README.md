@@ -30,7 +30,7 @@ Prepare-se para testar seus reflexos enquanto tenta acertar o maior número poss
 - Capivaras surgem rapidamente
 - Muitas cutias!
 - Capivaras douradas mais frequentes
-- 🌧️ **Chuva**: reduz a visibilidade e é ativada aleatoriamente ou ao clicar em uma cutia
+- 🌧️ **Chuva**: ao clicar em uma cutia, nenhum animal aparece por 5 segundos, impossibilitando a marcação de pontos
 
 ---
 
