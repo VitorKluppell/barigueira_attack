@@ -1,7 +1,9 @@
 Barigueira Attack!
+
 Bem-vindo ao Barigueira Attack!, um jogo divertido e desafiador inspirado no clássico "Whack-a-Mole", mas com um toque curitibano: as adoráveis capivaras do Parque Barigui! Prepare-se para testar seus reflexos e pontaria enquanto tenta acertar o maior número de capivaras (e evitar as cutias!).
 
 🎮 Como Jogar
+
 O objetivo de Barigueira Attack! é simples:
 
 Acerte as Capivaras: Clique nas capivaras que aparecem para ganhar pontos.
