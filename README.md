@@ -1,50 +1,61 @@
-Barigueira Attack!
+# 🎯 Barigueira Attack!
 
-Bem-vindo ao Barigueira Attack!, um jogo divertido e desafiador inspirado no clássico "Whack-a-Mole", mas com um toque curitibano: as adoráveis capivaras do Parque Barigui! Prepare-se para testar seus reflexos e pontaria enquanto tenta acertar o maior número de capivaras (e evitar as cutias!).
+Bem-vindo ao **Barigueira Attack!**, um jogo divertido e desafiador inspirado no clássico “Whack-a-Mole”, com o charme das capivaras do Parque Barigui! 🦫  
+Prepare-se para testar seus reflexos enquanto tenta acertar o maior número possível de capivaras — e evitar as astutas cutias!
 
-🎮 Como Jogar
+---
 
-O objetivo de Barigueira Attack! é simples:
+## 🎮 Como Jogar
 
-Acerte as Capivaras: Clique nas capivaras que aparecem para ganhar pontos.
-Capivara Dourada: Fique de olho nas capivaras douradas! Elas valem mais pontos.
-Cuidado com as Cutias: Evite clicar nas cutias! Elas farão você perder pontos.
-Tempo: Você tem 2 minutos para conseguir a maior pontuação possível.
+- ✅ **Acerte as Capivaras** para ganhar pontos.  
+- ✨ **Capivara Dourada**: vale pontos extras!  
+- ❌ **Cutias**: clique nelas e você perde pontos.  
+- ⏱️ Você tem **2 minutos** para marcar o maior número de pontos!
 
-Dificuldades
+---
 
-O jogo oferece três níveis de dificuldade:
+## 🎚️ Níveis de Dificuldade
 
-Fácil: Menos capivaras, mais tempo para reagir, penalidades menores para cutias.
+### 🟢 FÁCIL
+- Menos capivaras
+- Mais tempo para reagir
+- Penalidades leves
 
-Médio: Dificuldade equilibrada com mais capivaras e cutias, e a capivara dourada começando a aparecer.
+### 🟠 MÉDIO
+- Mais capivaras e cutias
+- Capivaras douradas começam a aparecer
+- Dificuldade equilibrada
 
-Difícil: O desafio máximo, com mais capivaras e cutias, mais capivaras douradas, e a inclusão da chuva, que pode dificultar a visualização e é ativada quando você acerta uma cutia (ou aleatoriamente).
+### 🔴 DIFÍCIL
+- Capivaras surgem rapidamente
+- Muitas cutias!
+- Capivaras douradas mais frequentes
+- 🌧️ **Chuva**: reduz a visibilidade e é ativada aleatoriamente ou ao clicar em uma cutia
 
+---
 
-✨ Funcionalidades
+## ✨ Funcionalidades
 
-Múltiplas Telas de Jogo: Tela Inicial, Menu Principal, Seleção de Dificuldade, Créditos, Jogo e Pausa.
+- 🖼️ Múltiplas telas: Início, Menu, Dificuldade, Créditos, Jogo, Pausa  
+- 🏆 Sistema de Pontuação Dinâmico  
+- 🎚️ Dificuldade Progressiva  
+- 🌧️ Evento Climático (chuva) no modo Difícil  
+- ⏱️ Contagem Regressiva para Início  
+- ⏸️ Sistema de Pausa  
+- 🔄 Reinício e retorno ao Menu  
+- ⏲️ Controle de Tempo
 
-Sistema de Pontuação Dinâmico: Ganhe pontos por capivaras normais e douradas, perca pontos por cutias.
+---
 
-Dificuldade Progressiva: Ajustes na frequência de aparição e tempo de visibilidade dos animais conforme a dificuldade.
+## 🛠️ Tecnologias Utilizadas
 
-Evento Climático (Chuva): No modo Difícil, a chuva pode surgir, adicionando um desafio visual.
+- 💻 **Linguagem**: C  
+- 🕹️ **Biblioteca Gráfica**: [Raylib]
 
-Contagem Regressiva para o Início do Jogo.
+---
 
-Sistema de Pausa.
+## 👥 Equipe
 
-Controle de Tempo de Jogo.
-
-
-🛠️ Tecnologias Utilizadas
-
-Linguagem: C
-Biblioteca Gráfica: Raylib
-
-👥 EQUIPE
 - Ana Waltrick  
 - Ângelo Miranda  
-- Vitor Kluppell
+- Vitor Kluppell  
