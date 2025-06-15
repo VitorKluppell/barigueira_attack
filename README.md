@@ -1,59 +1,55 @@
-<div align="center">
-
-🦫✨ Barigueira Attack!
-🎯 Acerte as capivaras. Desvie das cutias. Vença a chuva.
-
-Um jogo estilo Whack-a-Mole, com alma curitibana — direto do Parque Barigui para sua tela!
-
-</div>
+🎯 Barigueira Attack!
+Bem-vindo ao Barigueira Attack!, um jogo divertido e desafiador inspirado no clássico “Whack-a-Mole”, com o charme das capivaras do Parque Barigui! 🦫
+Prepare-se para testar seus reflexos enquanto tenta acertar o maior número possível de capivaras — e evitar as astutas cutias!
 
 ---
 
 🎮 Como Jogar
-🎯 Objetivo:
-Ganhe o máximo de pontos em 2 minutos clicando nas capivaras e evitando as cutias!
-
-✅ Capivaras Normais → +1 ponto
-✨ Capivara Dourada → +3 pontos
-❌ Cutia → -2 pontos
-⏳ Tempo de jogo → 2 minutos por rodada
+✅ Acerte as Capivaras para ganhar pontos.
+✨ Capivara Dourada: vale pontos extras!
+❌ Cutias: clique nelas e você perde pontos.
+⏱️ Você tem 2 minutos para marcar o maior número de pontos!
 
 ---
 
-🧩 Modos de Dificuldade
-| Dificuldade | Características |
-|-------------|-----------------|
-| 🟢 Fácil | Capivaras lentas, menos cutias, penalidade leve |
-| 🟡 Médio | Mais aparições, primeiras douradas, ritmo equilibrado |
-| 🔴 Difícil | Alta frequência, mais douradas e cutias, chuva ativada |
+🎚️ Níveis de Dificuldade
+🟢 FÁCIL
+Menos capivaras
+Mais tempo para reagir
+Penalidades leves
 
-💧 A chuva no modo difícil adiciona um desafio visual extra, surgindo ao clicar em cutias ou aleatoriamente.
+🟠 MÉDIO
+Mais capivaras e cutias
+Capivaras douradas começam a aparecer
+Dificuldade equilibrada
+
+🔴 DIFÍCIL
+Capivaras surgem rapidamente
+Muitas cutias!
+Capivaras douradas mais frequentes
+🌧️ Chuva: reduz a visibilidade e é ativada aleatoriamente ou ao clicar em uma cutia
 
 ---
 
 ✨ Funcionalidades
-🖥️ Múltiplas Telas: Inicial, Menu, Seleção de Dificuldade, Jogo, Pausa e Créditos
-📊 Sistema de Pontuação Dinâmico baseado no tipo de animal
-🌧️ Evento Climático (Chuva) como obstáculo visual no modo difícil
-⏱️ Timer com contagem regressiva e sistema de pausa
-⚙️ Dificuldade Progressiva conforme seleção do jogador
-🎮 Jogabilidade com cliques rápidos e reflexo
+🖼️ Múltiplas telas: Início, Menu, Dificuldade, Créditos, Jogo, Pausa
+🏆 Sistema de Pontuação Dinâmico
+🎚️ Dificuldade Progressiva
+🌧️ Evento Climático (chuva) no modo Difícil
+⏱️ Contagem Regressiva para Início
+⏸️ Sistema de Pausa
+🔄 Reinício e retorno ao Menu
+⏲️ Controle de Tempo
 
 ---
 
-💻 Tecnologias Utilizadas
-| Tecnologia | Descrição |
-|------------|-----------|
-| 🔤 Linguagem | C |
-| 🎨 Biblioteca Gráfica | Raylib |
+🛠️ Tecnologias Utilizadas
+💻 Linguagem: C
+🕹️ Biblioteca Gráfica: [Raylib]
 
 ---
 
-👩‍💻 Equipe de Desenvolvimento
-👩 Ana Waltrick
-👨 Ângelo Miranda
-👨‍💻 Vitor Kluppell
-
-🎓 Projeto acadêmico desenvolvido na UniBrasil Centro Universitário
-👨‍🏫 Professor responsável: [Nome do Professor]
-📘 Disciplina: Programação Avançada
+👥 Equipe
+Ana Waltrick
+Ângelo Miranda
+Vitor Kluppell
